@@ -1,0 +1,2 @@
+# Todo esto es como el reducer de una app de redux,
+# solo creado en React de una manera nativa
