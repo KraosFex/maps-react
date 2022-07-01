@@ -1,4 +1,4 @@
-import { PlacesProvider } from "./context/place/PlacesProvider";
+import { PlacesProvider } from "./context/index";
 
 export const MapsApp = () => {
   return (
